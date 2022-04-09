@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "rapid-check": "^0.3.0"
   }
 }
